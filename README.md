@@ -1,4 +1,4 @@
-# Learning Test Driven Development (TDD)
+# Learning Test-driven Development (TDD)
 
 In this repository, I have used **Jest** to practice TDD in **Node.js** projects.
 
