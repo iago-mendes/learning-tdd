@@ -1,6 +1,6 @@
-import express from 'express'
+const express = require('express')
 
-import routes from './routes'
+const routes = require('./routes')
 
 class AppController
 {
@@ -23,4 +23,4 @@ class AppController
 	}
 }
 
-export default new AppController().express
+module.exports = new AppController().express
